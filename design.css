@@ -105,7 +105,14 @@ button:hover{
         display: flex;
         flex-direction: row;
         width:auto;     
+          height: 600px;
     }
+
+    button{
+
+        margin-top: 250px;
+    }
+   
 
     
 }
